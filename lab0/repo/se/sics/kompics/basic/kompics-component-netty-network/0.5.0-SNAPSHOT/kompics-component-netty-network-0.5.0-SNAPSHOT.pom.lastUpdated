@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 29 00:05:33 KRAT 2021
+@default-sics-snapshot-http\://kompics.sics.se/maven/snapshotrepository/.lastUpdated=1619629533256
+file\:C\:\\Users\\Laravel\\Desktop\\-distributed-algorithms-master\\id2203-ass1-epfd/repo/.error=
+http\://kompics.sics.se/maven/snapshotrepository/.error=Could not transfer artifact se.sics.kompics.basic\:kompics-component-netty-network\:pom\:0.5.0-SNAPSHOT from/to sics-snapshot (http\://kompics.sics.se/maven/snapshotrepository)\: Transfer failed for http\://kompics.sics.se/maven/snapshotrepository/se/sics/kompics/basic/kompics-component-netty-network/0.5.0-SNAPSHOT/kompics-component-netty-network-0.5.0-SNAPSHOT.pom
+file\:C\:\\Users\\Laravel\\Desktop\\-distributed-algorithms-master\\id2203-ass1-epfd/repo/.lastUpdated=1619629530771
